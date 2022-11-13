@@ -14,11 +14,18 @@
 // */
 //public class Solution_13 {
 //    public int solution(int num) {
+//
+//
 //        int answer = 0;
-//        if (num)
-//        int number = num % 2 == 0 ? num / 2 : num*3+1;
-//        return answer;
+//
+//        while (num != 1) {
+//            if (num % 2 == 0) {
+//                num/2
+//            }
+//        }
+//
 //    }
+//
 //
 //
 //    public static void main(String[] args) throws IOException {
